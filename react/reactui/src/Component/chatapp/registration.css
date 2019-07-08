@@ -1,0 +1,28 @@
+.registration{
+    position: relative;
+    border: 5px solid black;
+    height:400px;
+    width: 600px;
+    background:yellow;
+    margin-top: 100px;
+    margin-left: 300px;
+}
+.table{
+    position: absolute;
+    height: 150px;
+    width: 250px;
+    margin-top: 50px;
+    margin-left: 50px;
+
+}
+
+.table td{
+    text-align: center;
+}
+.input{
+    font-family :italic;
+}
+
+.Button{
+
+}
